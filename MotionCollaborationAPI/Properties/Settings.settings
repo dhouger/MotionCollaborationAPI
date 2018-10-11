@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MotionCollaborationAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MongoDB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mongodb://motioncollaborationdb:Be05jMotPKbczdLlyv8eEGPRejsQ3zSf1PObZoTxTewDUT9uQNnhGDAMh85zIosjLJJbsb6Q55b6xvhCW3vrZQ==@motioncollaborationdb.documents.azure.com:10255/?ssl=true&amp;replicaSet=globaldb</Value>
+    </Setting>
+    <Setting Name="DefaultDBName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">motioncollection</Value>
+    </Setting>
+    <Setting Name="DefaultCollection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MotionDataCollection</Value>
+    </Setting>
+    <Setting Name="DeletedCollection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DeletedCollection</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
